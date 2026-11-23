@@ -3,7 +3,7 @@ Patient caseload and burnout in Medical Social Workers
 # CM--PROJECT R code
 [View R Code](comp%20project%20code%20.pdf)
 # project 
-[View Project](project)
+[View GIF](project)
 [Presentation Youtube link] 
 
 # Patient caseload and burnout in Medical social workers
