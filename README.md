@@ -7,4 +7,4 @@ Patient caseload and burnout in Medical Social Workers
 [Presentation Youtube link] 
 
 # Patient caseload and burnout in Medical social workers
-[View Article](Nephrology%20social%20worker%27s%20case%20load%20sizes%20and%20level%20of%20burnout.pdf)
+[View Article](Nephrology Social Worker?s Caseload Sizes and Levels of Burnout.pdf)
